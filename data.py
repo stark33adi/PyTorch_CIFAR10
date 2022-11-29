@@ -69,13 +69,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-a3d5270e51d6.js"></script>
   
 
-  <title>PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10</title>
+  <title>PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10</title>
 
 
 
     
 
-  <meta name="request-id" content="DA69:3CCE:24A914:357772:638553E8" data-turbo-transient="true" /><meta name="html-safe-nonce" content="86f825fda9dad6a5ddd1b236e7e1d81a5e8c0462f80256df0e4d4869d7790fbe" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9JYW1GaW5hbGx5QUxJVkUvUHlUb3JjaF9DSUZBUjEwIiwicmVxdWVzdF9pZCI6IkRBNjk6M0NDRToyNEE5MTQ6MzU3NzcyOjYzODU1M0U4IiwidmlzaXRvcl9pZCI6IjEyNzUyMTkzNTc3ODY4NDMxMSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="c5c2d787abb6bad6ccfcc27cdd755d088be3bf8ee79de4a42353a9581d0e3947" data-turbo-transient="true" />
+  <meta name="request-id" content="DA69:3CCE:24A1ED:356D0E:638553E3" data-turbo-transient="true" /><meta name="html-safe-nonce" content="86f825fda9dad6a5ddd1b236e7e1d81a5e8c0462f80256df0e4d4869d7790fbe" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9JYW1GaW5hbGx5QUxJVkUvUHlUb3JjaF9DSUZBUjEwIiwicmVxdWVzdF9pZCI6IkRBNjk6M0NDRToyNEExRUQ6MzU2RDBFOjYzODU1M0UzIiwidmlzaXRvcl9pZCI6IjEyNzUyMTkzNTc3ODY4NDMxMSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="24c0122bf6498e66903df9f3b76ea1300b5d9a1c91d3d016752994a3d8ed4d32" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:428518893" data-turbo-transient>
@@ -109,16 +109,16 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10">
+      <meta name="description" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/c95e8d8ded4427ade41ff14cfbd59b2c8f10ffed516ad2cac17853f4a6ae3247/IamFinallyALIVE/PyTorch_CIFAR10" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10" /><meta name="twitter:description" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/c95e8d8ded4427ade41ff14cfbd59b2c8f10ffed516ad2cac17853f4a6ae3247/IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:image:alt" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:url" content="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:description" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/README.md at master · IamFinallyALIVE/PyTorch_CIFAR10" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/c95e8d8ded4427ade41ff14cfbd59b2c8f10ffed516ad2cac17853f4a6ae3247/IamFinallyALIVE/PyTorch_CIFAR10" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10" /><meta name="twitter:description" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/c95e8d8ded4427ade41ff14cfbd59b2c8f10ffed516ad2cac17853f4a6ae3247/IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:image:alt" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:url" content="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10" /><meta property="og:description" content="Pretrained TorchVision models on CIFAR10 dataset (with weights) - PyTorch_CIFAR10/data.py at master · IamFinallyALIVE/PyTorch_CIFAR10" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/119011571/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTkwMTE1NzEsInMiOjEwMDAwNjg3MjksImMiOjIxNTI2NzU4ODksInQiOjE2Njk2ODIxNTl9--7e64ba508c34394fdcc287b5644103eea875d28b1648deac6a9ccb3d76739207" data-refresh-url="/_alive" data-session-id="6fbd5c070f4e9c9fa933cf700d1c42a893cd8205ddf73746dbde1748d645b840">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/119011571/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTkwMTE1NzEsInMiOjEwMDAwNjg3MjksImMiOjMyMDU1NjQwOTAsInQiOjE2Njk2ODIxNTJ9--cbdf236aefd3e2bca64b37828fe98ba903de2fb02074f447619713c417251896" data-refresh-url="/_alive" data-session-id="6fbd5c070f4e9c9fa933cf700d1c42a893cd8205ddf73746dbde1748d645b840">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -148,7 +148,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="9mGq7Yo6tZNXbVGQEukpYAdCpxN_suWq4F-ygKILsRhb6IzkhPemamIOuNFcs7hfUf87oGKSigFpTJMx1SUzww" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="AmfttHY0Mf5vrj2jrz6_uCVjUPlsdRqlbPiNIs-BnQ2v7su9ePkiB1rN1OLhZC6Hc97MSnFVdQ7l66yTuK8f1g" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;stark33adi&quot;,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="658b1211a22f3e07b114c70734b306e07828f011fd24fca8b0ca655752d23e4b" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;stark33adi&quot;,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="052767e9e14a1c2058f2b856161694404a7e15649d72c7f9fd4e74c606528349" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/119011571?s=40&amp;v=4" width="20" height="20" alt="@stark33adi" />
       stark33adi
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JUSDR_70VqcsKmHPeA8k-RU72HBspdJRuqDAHo2ESnudam94v6CI-ysA8yj_8yWn3Ql3uLYh-AmZ5HkTcG_W3Q" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QwvtUsMbfsBf_Rnh13jpMM5jzIfW-TNEYcBG4znlo0P7JQFtgk-gnFjXiwZQhOhuBlFjTwx9GRxChP_uxA4_5Q" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE5MDExNTcxIiwidCI6MTY2OTY4MjE1OX0=--499d5a86a22856859fbae53607b3750faab70d92fceab411d9caa39b95cd209a" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE5MDExNTcxIiwidCI6MTY2OTY4MjE1Mn0=--651a80e734c6a72ceff54d710916f5ee57f0e0a273c9f3297b11b04bab63388f" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md
+      return-to=/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py
       user-id="119011571"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1608,7 +1608,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="a07921ade6fe2493bd6e6309926df49b607323c414f3aae7a31c6863189da3e4" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b7d78dce7d61508ee1b6500c15602bdf2496fb649ec08e07307233f8c22f2cd6" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1660,7 +1660,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WPc8rlB6N1YUMcUDkrWmgsR-9RGR72dWs139l4NG6SUWDOXaMiQASjQnJcDA8tihnAPnWQ82lrcw8RGgJjEJgw" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DYSy9CaBfQ-N1mdfyg-6KdGuL6WtniefDvJvSrxkkoJDf2uARN9KE63Ah5yYSMQKidM97TNH1n6NXoN9GRNyJA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="428518893">
 
@@ -1788,7 +1788,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hZ1rzrnxRB5TuuA6UqC1Rfx9cI0AL2iH088yWywvdi7LZrK6269zAnOsAPkA58tmpABixZ72mWZQY95siViWiA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CtEFH33HsNIgLtkxY_5hEZBuPsQ1_qFExFGG4qdnTABEKtxrH5mHzgA4OfIxuR8yyBMsjKsnUKVH_WrVAhCspg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="428518893">
 
@@ -1947,7 +1947,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/IamFinallyALIVE/PyTorch_CIFAR10/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="f4883748891b166b85c75348d2287ec53f7f876cd538e16d7e6a7ebc92de922b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of IamFinallyALIVE/PyTorch_CIFAR10" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/IamFinallyALIVE/PyTorch_CIFAR10/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="ae5f80f249f1f36f230c4cae00a76e781f531cb4147eddf701c82869f7966ab5" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of IamFinallyALIVE/PyTorch_CIFAR10" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="122" data-view-component="true" class="Counter">122</span>
@@ -1965,13 +1965,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8343f1">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-1bf761">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-8343f1"
+        id="filter-menu-1bf761"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2013,10 +2013,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Hzg7b41nOp-b285-PN0XGX8qhwpA7Ntj75BBV8XYhcQ0ycK5DaP2dO0KL5fLfj-J8ENBoK1TgkNwc88fhSSwsQ" autocomplete="off" />
-          <input type="hidden" value="v_szsffiQa4iFcRpe2K41P0xOENUERjeFKor_t7M1ySUCspndyaNRVTEJYCMwZBEclj-6bmuQf6LSaW2njDiUQ" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vu75gvKMo7YEKsK9l0UAfT3zUTaFeGsl5idM7oIfhx-VHwBUckhvXXL7I1Rg5ijtspqXnGjHMgV5xMKmwuOyag" autocomplete="off" />
+          <input type="hidden" value="Ap66QSlnh50vt1nr2Mf5_0XxMYQ8f3yb5GvP97oUGl0pb0OXqaNLdllmuAIvZNFvypj3LtHAJbt7iEG_-ugvKA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="c24d402664e40d4363b461f6fecb6f8e5dc8160291d99d26e486ace350292e53" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="0d6bf247d1328f8f980bdf92fb229fe283d43d73571464141aa6ff89f2343512" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2034,13 +2034,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0f74c4">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-de0e5c">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-0f74c4"
+        id="filter-menu-de0e5c"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2061,9 +2061,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8rt-sErJEKhkehOMOHxeQbSch3kIneSl3eUwf6pPiYtYLBhP_NrMlTeoAuhI3YCJ9aGwBf9IlGhwsY6wM035TQ" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="verouWODUH9Xjm32uvDFxg93xHK5vf8BJXHrYEA64ekXfY5G1ZCMQgRcfJLKURsOTkrzDk5oj8yIJVWv2TiRLw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="3c06b6061413e961094827c0488fb136707e4d18ff421b4c99f0bf4e092489a2" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="20d740485fcd0822de83580d337dcc6196679875467b9f75464aefa10ce12c60" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2081,13 +2081,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0f74c4">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-de0e5c">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-0f74c4"
+        id="filter-menu-de0e5c"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2258,7 +2258,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/641cac24371b17052b9bb6e56af1c83b5e97cd7f/data.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2266,7 +2266,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="4472189037b54232df25e1c42836d2d7b5a5088ec354783c0ce6da5333e62e53">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="da54ee060d1d29f2a97ea5cab90009d32de33ae2525654edcdf92fc9654d7ef7">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2347,7 +2347,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/{{ urlEncodedRefName }}/data.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2389,7 +2389,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/{{ urlEncodedRefName }}/data.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2450,7 +2450,84 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IamFinallyALIVE/PyTorch_CIFAR10"><span>PyTorch_CIFAR10</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IamFinallyALIVE/PyTorch_CIFAR10"><span>PyTorch_CIFAR10</span></a></span></span><span class="separator">/</span><strong class="final-path">data.py</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="9e7af27795b63cd4f1eebc9e1dfacd7424844cbeefe3fe673871d78e4765c525" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="1a012cd491db22ef4bdab24afc1245a709c1158bcc8980e222db4c208e09d2a8" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py#L12">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>CIFAR10Data</span>
+              <span class="flex-auto d-flex flex-justify-end">Class</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="1a012cd491db22ef4bdab24afc1245a709c1158bcc8980e222db4c208e09d2a8" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py#L13">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>__init__</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="1a012cd491db22ef4bdab24afc1245a709c1158bcc8980e222db4c208e09d2a8" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py#L19">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>download_weights</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="1a012cd491db22ef4bdab24afc1245a709c1158bcc8980e222db4c208e09d2a8" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py#L48">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>train_dataloader</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="1a012cd491db22ef4bdab24afc1245a709c1158bcc8980e222db4c208e09d2a8" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py#L68">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>val_dataloader</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:428518893,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="1a012cd491db22ef4bdab24afc1245a709c1158bcc8980e222db4c208e09d2a8" href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py#L85">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>test_dataloader</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/IamFinallyALIVE/PyTorch_CIFAR10/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2461,7 +2538,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="8aa8bc17aa60508b4a2c21c53dc57a403e7dee58d3c072997a7c4922bd7fd558" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/IamFinallyALIVE/PyTorch_CIFAR10/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="9201c10818324a614a9ffe4c524b0af6b20623429d773e02535352ab56f68ecc" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/IamFinallyALIVE/PyTorch_CIFAR10/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2471,15 +2548,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="data.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/641cac24371b17052b9bb6e56af1c83b5e97cd7f/data.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2511,7 +2594,7 @@
     <include-fragment src="/IamFinallyALIVE/PyTorch_CIFAR10/spoofed_commit_check/641cac24371b17052b9bb6e56af1c83b5e97cd7f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/IamFinallyALIVE/PyTorch_CIFAR10/contributors/master/README.md" class="commit-loader">
+  <include-fragment src="/IamFinallyALIVE/PyTorch_CIFAR10/contributors/master/data.py" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2534,88 +2617,34 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
       
   <div
-    class="Box-header js-blob-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header js-blob-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}"
-  data-menu-hydro-click-hmac="96ec9c45be1aaef8b94a6f6d819c2588cf4754751f339cac98e2379f2bb5deb2"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-        <div class="SelectMenu-filter">
-          <input
-            class="SelectMenu-input form-control js-filterable-field"
-            id="toc-filter-field"
-            type="text"
-            autocomplete="off"
-            spellcheck="false"
-            autofocus
-            placeholder="Filter headings"
-            aria-label="Filter headings">
-        </div>
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#pytorch-models-trained-on-cifar-10-dataset">PyTorch models trained on CIFAR-10 dataset</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#statistics-of-supported-models">Statistics of supported models</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#details-report--run-logs">Details Report &amp; Run Logs</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#how-to-cite">How To Cite</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#how-to-use-pretrained-models">How to use pretrained models</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#how-to-train-models-from-scratch">How to train models from scratch</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#how-to-test-pretrained-models">How to test pretrained models</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="b870e58a9d6f7e2484a0ee1b39f1e2688e21001eec2ea6eece4c108c9fe871fc" href="#requirements">Requirements</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      80 lines (62 sloc)
+      86 lines (74 sloc)
       <span class="file-info-divider"></span>
-    3.18 KB
+    2.69 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md?plain=1" data-permalink-href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md" data-permalink-href="/IamFinallyALIVE/PyTorch_CIFAR10/blob/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/IamFinallyALIVE/PyTorch_CIFAR10/raw/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md" href="/IamFinallyALIVE/PyTorch_CIFAR10/raw/master/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md" href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/IamFinallyALIVE/PyTorch_CIFAR10/raw/641cac24371b17052b9bb6e56af1c83b5e97cd7f/data.py" href="/IamFinallyALIVE/PyTorch_CIFAR10/raw/master/data.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/641cac24371b17052b9bb6e56af1c83b5e97cd7f/data.py" href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/master/data.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="-imCBs2sujTBc7JG0p5BL9xZJ_YRa6UgU01RyLZpXed3FuCnXzBQT6zVQIxyoIvvhqQ_2ktIIKEEWjhhq-ajjw" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/edit/master/data.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DNV7fR4XzlTJ429s0hVCtQ6QZ43OON52PU9rbmL0IW8T7-_O2wxUCP6g2nA8rqsMIaYv63f8Mrgi_asqf9yxSg" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2625,7 +2654,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5ZcfMuZRS5G6lbnDW8MCNXoiYC7lcXmg0qFWO1MAfXpoqH2TdM2h6tczSwn7_cj1IN94Ar9S_CGFtj-STo-DEg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/edit/master/data.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h2Z-Qr-713ndYfOXg5_Pcc6gw1TYC1kospU2pr0pEzKYXOrxeqBNJeoiRottJCbI4ZaLMmHPteatJ_bioAGDFw" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2644,10 +2673,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/IamFinallyALIVE/PyTorch_CIFAR10/raw/641cac24371b17052b9bb6e56af1c83b5e97cd7f/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/IamFinallyALIVE/PyTorch_CIFAR10/raw/641cac24371b17052b9bb6e56af1c83b5e97cd7f/data.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="77b5f2da85dfb08fe375ca2ffccfb4ff9eaf3e82e5f34f4af4d6a2f89a24de11" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="780a13fc62bc112deccfc235aa9a2fe6cd50f9ea730d1e2daede79fc6dfe617e" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2672,7 +2701,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PocX0ZSkZ2rTucz3r_2uVwYjVZHbWGHIxZmcuJrYM0bl2qPYMXcEfDs4sc47gZNgNr8qhbkRkXuwfph-AOHNFw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/IamFinallyALIVE/PyTorch_CIFAR10/delete/master/data.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="q363bv2do6vLex6JTBPw9WFqqEv2jLjBSQI7p76yvZOf0-DWkgz371k9_JNsaUH9Nx-cinn3KWJtYfqBdQdTGw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2685,7 +2714,7 @@
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
         <summary
-          class="js-blob-dropdown-click btn-octicon p-2"
+          class="js-blob-dropdown-click btn-octicon"
           aria-haspopup="true"
           aria-label="possible actions"
           data-test-selector="small-screen-more-options"
@@ -2705,15 +2734,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/IamFinallyALIVE/PyTorch_CIFAR10/raw/master/README.md">
+            <a class="dropdown-item" href="/IamFinallyALIVE/PyTorch_CIFAR10/raw/master/data.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/IamFinallyALIVE/PyTorch_CIFAR10/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/IamFinallyALIVE/PyTorch_CIFAR10/raw/master/data.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/README.md&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="77b5f2da85dfb08fe375ca2ffccfb4ff9eaf3e82e5f34f4af4d6a2f89a24de11">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:428518893,&quot;originating_url&quot;:&quot;https://github.com/IamFinallyALIVE/PyTorch_CIFAR10/blob/master/data.py&quot;,&quot;user_id&quot;:119011571}}" data-hydro-click-hmac="780a13fc62bc112deccfc235aa9a2fe6cd50f9ea730d1e2daede79fc6dfe617e">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2736,20 +2765,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/master/README.md">
+              <a class="dropdown-item" href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/master/data.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/IamFinallyALIVE/PyTorch_CIFAR10/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/IamFinallyALIVE/PyTorch_CIFAR10/edit/master/data.py">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:428518893,&quot;actor_id&quot;:119011571,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/IamFinallyALIVE/PyTorch_CIFAR10/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/IamFinallyALIVE/PyTorch_CIFAR10/delete/master/data.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2757,174 +2786,425 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-pytorch-models-trained-on-cifar-10-dataset" class="anchor" aria-hidden="true" href="#pytorch-models-trained-on-cifar-10-dataset"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>PyTorch models trained on CIFAR-10 dataset</h1>
-<ul dir="auto">
-<li>I modified <a href="https://pytorch.org/docs/stable/torchvision/models.html" rel="nofollow">TorchVision</a> official implementation of popular CNN models, and trained those on CIFAR-10 dataset.</li>
-<li>I changed <em>number of class, filter size, stride, and padding</em> in the the original code so that it works with CIFAR-10.</li>
-<li>I also share the <strong>weights</strong> of these models, so you can just load the weights and use them.</li>
-<li>The code is highly re-producible and readable by using PyTorch-Lightning.</li>
-</ul>
-<h2 dir="auto"><a id="user-content-statistics-of-supported-models" class="anchor" aria-hidden="true" href="#statistics-of-supported-models"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Statistics of supported models</h2>
-<table>
-<thead>
-<tr>
-<th align="center">No.</th>
-<th align="left">Model</th>
-<th align="right">Val. Acc.</th>
-<th align="right">No. Params</th>
-<th align="right">Size</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">1</td>
-<td align="left">vgg11_bn</td>
-<td align="right">92.39%</td>
-<td align="right">28.150 M</td>
-<td align="right">108 MB</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td align="left">vgg13_bn</td>
-<td align="right">94.22%</td>
-<td align="right">28.334 M</td>
-<td align="right">109 MB</td>
-</tr>
-<tr>
-<td align="center">3</td>
-<td align="left">vgg16_bn</td>
-<td align="right">94.00%</td>
-<td align="right">33.647 M</td>
-<td align="right">129 MB</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="left">vgg19_bn</td>
-<td align="right">93.95%</td>
-<td align="right">38.959 M</td>
-<td align="right">149 MB</td>
-</tr>
-<tr>
-<td align="center">5</td>
-<td align="left">resnet18</td>
-<td align="right">93.07%</td>
-<td align="right">11.174 M</td>
-<td align="right">43 MB</td>
-</tr>
-<tr>
-<td align="center">6</td>
-<td align="left">resnet34</td>
-<td align="right">93.34%</td>
-<td align="right">21.282 M</td>
-<td align="right">82 MB</td>
-</tr>
-<tr>
-<td align="center">7</td>
-<td align="left">resnet50</td>
-<td align="right">93.65%</td>
-<td align="right">23.521 M</td>
-<td align="right">91 MB</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="left">densenet121</td>
-<td align="right">94.06%</td>
-<td align="right">6.956 M</td>
-<td align="right">28 MB</td>
-</tr>
-<tr>
-<td align="center">9</td>
-<td align="left">densenet161</td>
-<td align="right">94.07%</td>
-<td align="right">26.483 M</td>
-<td align="right">103 MB</td>
-</tr>
-<tr>
-<td align="center">10</td>
-<td align="left">densenet169</td>
-<td align="right">94.05%</td>
-<td align="right">12.493 M</td>
-<td align="right">49 MB</td>
-</tr>
-<tr>
-<td align="center">11</td>
-<td align="left">mobilenet_v2</td>
-<td align="right">93.91%</td>
-<td align="right">2.237 M</td>
-<td align="right">9 MB</td>
-</tr>
-<tr>
-<td align="center">12</td>
-<td align="left">googlenet</td>
-<td align="right">92.85%</td>
-<td align="right">5.491 M</td>
-<td align="right">22 MB</td>
-</tr>
-<tr>
-<td align="center">13</td>
-<td align="left">inception_v3</td>
-<td align="right">93.74%</td>
-<td align="right">21.640 M</td>
-<td align="right">83 MB</td>
-</tr>
-</tbody>
-</table>
-<h2 dir="auto"><a id="user-content-details-report--run-logs" class="anchor" aria-hidden="true" href="#details-report--run-logs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Details Report &amp; Run Logs</h2>
-<p dir="auto">Weight and Biases' details report for this project <a href="https://wandb.ai/huyvnphan/cifar10/reports/CIFAR10-Classification-using-PyTorch---VmlldzozOTg0ODQ?accessToken=9m2q1ajhppuziprsq9tlryynvmqbkrbvjdoktrz7o6gtqilmtqbv2r9jjrtb2tqq" rel="nofollow">WandB Report</a></p>
-<p dir="auto">Weight and Biases' run logs for this project <a href="https://wandb.ai/huyvnphan/cifar10" rel="nofollow">WandB Run Log</a>. You can see each run hyper-parameters, training accuracy, validation accuracy, loss, time taken.</p>
-<h2 dir="auto"><a id="user-content-how-to-cite" class="anchor" aria-hidden="true" href="#how-to-cite"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How To Cite</h2>
-<p dir="auto"><a href="https://zenodo.org/badge/latestdoi/195914773" rel="nofollow"><img src="https://camo.githubusercontent.com/ddc44c691ec21b33d8ace6be4cce2536926c29f1711904446ace7662ddb7dd9a/68747470733a2f2f7a656e6f646f2e6f72672f62616467652f3139353931343737332e737667" alt="DOI" data-canonical-src="https://zenodo.org/badge/195914773.svg" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content-how-to-use-pretrained-models" class="anchor" aria-hidden="true" href="#how-to-use-pretrained-models"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How to use pretrained models</h2>
-<p dir="auto"><strong>Automatically download and extract the weights from Box (933 MB)</strong></p>
-<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="python train.py --download_weights 1"><pre><span class="pl-s1">python</span> <span class="pl-s1">train</span>.<span class="pl-s1">py</span> <span class="pl-c1">-</span><span class="pl-c1">-</span><span class="pl-s1">download_weights</span> <span class="pl-c1">1</span></pre></div>
-<p dir="auto">Or use <a href="https://drive.google.com/file/d/17fmN8eQdLpq2jIMQ_X0IXDPXfI9oVWgq/view?usp=sharing" rel="nofollow">Google Drive</a> backup link (you have to download and extract manually)</p>
-<p dir="auto"><strong>Load model and run</strong></p>
-<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="from cifar10_models.vgg import vgg11_bn, vgg13_bn, vgg16_bn, vgg19_bn
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
 
-# Untrained model
-my_model = vgg11_bn()
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
 
-# Pretrained model
-my_model = vgg11_bn(pretrained=True)
-my_model.eval() # for evaluation"><pre><span class="pl-k">from</span> <span class="pl-s1">cifar10_models</span>.<span class="pl-s1">vgg</span> <span class="pl-k">import</span> <span class="pl-s1">vgg11_bn</span>, <span class="pl-s1">vgg13_bn</span>, <span class="pl-s1">vgg16_bn</span>, <span class="pl-s1">vgg19_bn</span>
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
 
-<span class="pl-c"># Untrained model</span>
-<span class="pl-s1">my_model</span> <span class="pl-c1">=</span> <span class="pl-en">vgg11_bn</span>()
 
-<span class="pl-c"># Pretrained model</span>
-<span class="pl-s1">my_model</span> <span class="pl-c1">=</span> <span class="pl-en">vgg11_bn</span>(<span class="pl-s1">pretrained</span><span class="pl-c1">=</span><span class="pl-c1">True</span>)
-<span class="pl-s1">my_model</span>.<span class="pl-en">eval</span>() <span class="pl-c"># for evaluation</span></pre></div>
-<p dir="auto">If you use your own images, all models expect data to be in range [0, 1] then normalized by</p>
-<div class="highlight highlight-source-python notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="mean = [0.4914, 0.4822, 0.4465]
-std = [0.2471, 0.2435, 0.2616]"><pre><span class="pl-s1">mean</span> <span class="pl-c1">=</span> [<span class="pl-c1">0.4914</span>, <span class="pl-c1">0.4822</span>, <span class="pl-c1">0.4465</span>]
-<span class="pl-s1">std</span> <span class="pl-c1">=</span> [<span class="pl-c1">0.2471</span>, <span class="pl-c1">0.2435</span>, <span class="pl-c1">0.2616</span>]</pre></div>
-<h2 dir="auto"><a id="user-content-how-to-train-models-from-scratch" class="anchor" aria-hidden="true" href="#how-to-train-models-from-scratch"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How to train models from scratch</h2>
-<p dir="auto">Check the <code>train.py</code> to see all available hyper-parameter choices.
-To reproduce the same accuracy use the default hyper-parameters</p>
-<p dir="auto"><code>python train.py --classifier resnet18</code></p>
-<h2 dir="auto"><a id="user-content-how-to-test-pretrained-models" class="anchor" aria-hidden="true" href="#how-to-test-pretrained-models"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>How to test pretrained models</h2>
-<p dir="auto"><code>python train.py --test_phase 1 --pretrained 1 --classifier resnet18</code></p>
-<p dir="auto">Output</p>
-<p dir="auto"><code>{'acc/test': tensor(93.0689, device='cuda:0')}</code></p>
-<h2 dir="auto"><a id="user-content-requirements" class="anchor" aria-hidden="true" href="#requirements"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Requirements</h2>
-<p dir="auto"><strong>Just to use pretrained models</strong></p>
-<ul dir="auto">
-<li>pytorch = 1.7.0</li>
-</ul>
-<p dir="auto"><strong>To train &amp; test</strong></p>
-<ul dir="auto">
-<li>pytorch = 1.7.0</li>
-<li>torchvision = 0.7.0</li>
-<li>tensorboard = 2.2.1</li>
-<li>pytorch-lightning = 1.1.0</li>
-</ul>
-</article>
-  </div>
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="data.py">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>os</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>zipfile</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>pytorch_lightning</span> <span class=pl-k>as</span> <span class=pl-s1>pl</span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>requests</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>torch</span>.<span class=pl-s1>utils</span>.<span class=pl-s1>data</span> <span class=pl-k>import</span> <span class=pl-v>DataLoader</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>torchvision</span> <span class=pl-k>import</span> <span class=pl-s1>transforms</span> <span class=pl-k>as</span> <span class=pl-v>T</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>torchvision</span>.<span class=pl-s1>datasets</span> <span class=pl-k>import</span> <span class=pl-v>CIFAR10</span></td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>tqdm</span> <span class=pl-k>import</span> <span class=pl-s1>tqdm</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-k>class</span> <span class=pl-v>CIFAR10Data</span>(<span class=pl-s1>pl</span>.<span class=pl-v>LightningDataModule</span>):</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>__init__</span>(<span class=pl-s1>self</span>, <span class=pl-s1>args</span>):</td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">        <span class=pl-en>super</span>().<span class=pl-en>__init__</span>()</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>hparams</span> <span class=pl-c1>=</span> <span class=pl-s1>args</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>mean</span> <span class=pl-c1>=</span> (<span class=pl-c1>0.4914</span>, <span class=pl-c1>0.4822</span>, <span class=pl-c1>0.4465</span>)</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>std</span> <span class=pl-c1>=</span> (<span class=pl-c1>0.2471</span>, <span class=pl-c1>0.2435</span>, <span class=pl-c1>0.2616</span>)</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>download_weights</span>():</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>url</span> <span class=pl-c1>=</span> (</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">            <span class=pl-s>&quot;https://rutgers.box.com/shared/static/gkw08ecs797j2et1ksmbg1w5t3idf5r5.zip&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">        )</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">        <span class=pl-c># Streaming, so we can iterate over the response.</span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>r</span> <span class=pl-c1>=</span> <span class=pl-s1>requests</span>.<span class=pl-en>get</span>(<span class=pl-s1>url</span>, <span class=pl-s1>stream</span><span class=pl-c1>=</span><span class=pl-c1>True</span>)</td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">        <span class=pl-c># Total size in Mebibyte</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>total_size</span> <span class=pl-c1>=</span> <span class=pl-en>int</span>(<span class=pl-s1>r</span>.<span class=pl-s1>headers</span>.<span class=pl-en>get</span>(<span class=pl-s>&quot;content-length&quot;</span>, <span class=pl-c1>0</span>))</td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>block_size</span> <span class=pl-c1>=</span> <span class=pl-c1>2</span> <span class=pl-c1>**</span> <span class=pl-c1>20</span>  <span class=pl-c># Mebibyte</span></td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>t</span> <span class=pl-c1>=</span> <span class=pl-en>tqdm</span>(<span class=pl-s1>total</span><span class=pl-c1>=</span><span class=pl-s1>total_size</span>, <span class=pl-s1>unit</span><span class=pl-c1>=</span><span class=pl-s>&quot;MiB&quot;</span>, <span class=pl-s1>unit_scale</span><span class=pl-c1>=</span><span class=pl-c1>True</span>)</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>with</span> <span class=pl-en>open</span>(<span class=pl-s>&quot;state_dicts.zip&quot;</span>, <span class=pl-s>&quot;wb&quot;</span>) <span class=pl-k>as</span> <span class=pl-s1>f</span>:</td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">            <span class=pl-k>for</span> <span class=pl-s1>data</span> <span class=pl-c1>in</span> <span class=pl-s1>r</span>.<span class=pl-en>iter_content</span>(<span class=pl-s1>block_size</span>):</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>t</span>.<span class=pl-en>update</span>(<span class=pl-en>len</span>(<span class=pl-s1>data</span>))</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">                <span class=pl-s1>f</span>.<span class=pl-en>write</span>(<span class=pl-s1>data</span>)</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>t</span>.<span class=pl-en>close</span>()</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-s1>total_size</span> <span class=pl-c1>!=</span> <span class=pl-c1>0</span> <span class=pl-c1>and</span> <span class=pl-s1>t</span>.<span class=pl-s1>n</span> <span class=pl-c1>!=</span> <span class=pl-s1>total_size</span>:</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">            <span class=pl-k>raise</span> <span class=pl-v>Exception</span>(<span class=pl-s>&quot;Error, something went wrong&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">        <span class=pl-en>print</span>(<span class=pl-s>&quot;Download successful. Unzipping file...&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>path_to_zip_file</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>join</span>(<span class=pl-s1>os</span>.<span class=pl-en>getcwd</span>(), <span class=pl-s>&quot;state_dicts.zip&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>directory_to_extract_to</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-s1>path</span>.<span class=pl-en>join</span>(<span class=pl-s1>os</span>.<span class=pl-en>getcwd</span>(), <span class=pl-s>&quot;cifar10_models&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>with</span> <span class=pl-s1>zipfile</span>.<span class=pl-v>ZipFile</span>(<span class=pl-s1>path_to_zip_file</span>, <span class=pl-s>&quot;r&quot;</span>) <span class=pl-k>as</span> <span class=pl-s1>zip_ref</span>:</td>
+        </tr>
+        <tr>
+          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>zip_ref</span>.<span class=pl-en>extractall</span>(<span class=pl-s1>directory_to_extract_to</span>)</td>
+        </tr>
+        <tr>
+          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">            <span class=pl-en>print</span>(<span class=pl-s>&quot;Unzip file successful!&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>train_dataloader</span>(<span class=pl-s1>self</span>):</td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>transform</span> <span class=pl-c1>=</span> <span class=pl-v>T</span>.<span class=pl-v>Compose</span>(</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">            [</td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">                <span class=pl-v>T</span>.<span class=pl-v>RandomCrop</span>(<span class=pl-c1>32</span>, <span class=pl-s1>padding</span><span class=pl-c1>=</span><span class=pl-c1>4</span>),</td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">                <span class=pl-v>T</span>.<span class=pl-v>RandomHorizontalFlip</span>(),</td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">                <span class=pl-v>T</span>.<span class=pl-v>ToTensor</span>(),</td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">                <span class=pl-v>T</span>.<span class=pl-v>Normalize</span>(<span class=pl-s1>self</span>.<span class=pl-s1>mean</span>, <span class=pl-s1>self</span>.<span class=pl-s1>std</span>),</td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">            ]</td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">        )</td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>dataset</span> <span class=pl-c1>=</span> <span class=pl-v>CIFAR10</span>(<span class=pl-s1>root</span><span class=pl-c1>=</span><span class=pl-s1>self</span>.<span class=pl-s1>hparams</span>.<span class=pl-s1>data_dir</span>, <span class=pl-s1>train</span><span class=pl-c1>=</span><span class=pl-c1>True</span>, <span class=pl-s1>transform</span><span class=pl-c1>=</span><span class=pl-s1>transform</span>)</td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>dataloader</span> <span class=pl-c1>=</span> <span class=pl-v>DataLoader</span>(</td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>dataset</span>,</td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>batch_size</span><span class=pl-c1>=</span><span class=pl-s1>self</span>.<span class=pl-s1>hparams</span>.<span class=pl-s1>batch_size</span>,</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>num_workers</span><span class=pl-c1>=</span><span class=pl-s1>self</span>.<span class=pl-s1>hparams</span>.<span class=pl-s1>num_workers</span>,</td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>shuffle</span><span class=pl-c1>=</span><span class=pl-c1>True</span>,</td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>drop_last</span><span class=pl-c1>=</span><span class=pl-c1>True</span>,</td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>pin_memory</span><span class=pl-c1>=</span><span class=pl-c1>True</span>,</td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">        )</td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>dataloader</span></td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>val_dataloader</span>(<span class=pl-s1>self</span>):</td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>transform</span> <span class=pl-c1>=</span> <span class=pl-v>T</span>.<span class=pl-v>Compose</span>(</td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">            [</td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">                <span class=pl-v>T</span>.<span class=pl-v>ToTensor</span>(),</td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line">                <span class=pl-v>T</span>.<span class=pl-v>Normalize</span>(<span class=pl-s1>self</span>.<span class=pl-s1>mean</span>, <span class=pl-s1>self</span>.<span class=pl-s1>std</span>),</td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">            ]</td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">        )</td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>dataset</span> <span class=pl-c1>=</span> <span class=pl-v>CIFAR10</span>(<span class=pl-s1>root</span><span class=pl-c1>=</span><span class=pl-s1>self</span>.<span class=pl-s1>hparams</span>.<span class=pl-s1>data_dir</span>, <span class=pl-s1>train</span><span class=pl-c1>=</span><span class=pl-c1>False</span>, <span class=pl-s1>transform</span><span class=pl-c1>=</span><span class=pl-s1>transform</span>)</td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>dataloader</span> <span class=pl-c1>=</span> <span class=pl-v>DataLoader</span>(</td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>dataset</span>,</td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>batch_size</span><span class=pl-c1>=</span><span class=pl-s1>self</span>.<span class=pl-s1>hparams</span>.<span class=pl-s1>batch_size</span>,</td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>num_workers</span><span class=pl-c1>=</span><span class=pl-s1>self</span>.<span class=pl-s1>hparams</span>.<span class=pl-s1>num_workers</span>,</td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>drop_last</span><span class=pl-c1>=</span><span class=pl-c1>True</span>,</td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>pin_memory</span><span class=pl-c1>=</span><span class=pl-c1>True</span>,</td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">        )</td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>dataloader</span></td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>test_dataloader</span>(<span class=pl-s1>self</span>):</td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s1>self</span>.<span class=pl-en>val_dataloader</span>()</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/IamFinallyALIVE/PyTorch_CIFAR10/blame/641cac24371b17052b9bb6e56af1c83b5e97cd7f/data.py">View git blame</a></li>
+      </ul>
+    </details-menu>
+  </details>
 
     </div>
 
-  </readme-toc>
+    </div>
+
 
   
 
@@ -2937,6 +3217,17 @@ To reproduce the same accuracy use the default hyper-parameters</p>
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/IamFinallyALIVE/PyTorch_CIFAR10/find-definition"
+     data-tagsearch-ref="master"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
